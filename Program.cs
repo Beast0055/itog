@@ -1,10 +1,10 @@
 ﻿System.Console.Clear(); 
 int max = 3;     
-string[] array1 = { "05", "214", "Armenia", ":-), af, 12, 23" };
+string[] array1 = { "05", "214", "Armenia", ":-), afr2, 122, 23" };
 Solving(array1, max);
-string[] array2 = { "5065", "-2", "123, an, Pash, 34" };
+string[] array2 = { "5065", "-32", "123, an, Pash, 34" };
 Solving(array2, max);
-string[] array3 = { "2321", "32", "Kazan, 932, 2003" };
+string[] array3 = { "a2321", "32", "hf, 932, 2003" };
 Solving(array3, max);
 
 int CountItems(string[] arr, int max)
