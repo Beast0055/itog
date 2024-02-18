@@ -1,0 +1,15 @@
+/Users/anny/Desktop/itog/bin/Debug/net6.0/itog
+/Users/anny/Desktop/itog/bin/Debug/net6.0/itog.deps.json
+/Users/anny/Desktop/itog/bin/Debug/net6.0/itog.runtimeconfig.json
+/Users/anny/Desktop/itog/bin/Debug/net6.0/itog.dll
+/Users/anny/Desktop/itog/bin/Debug/net6.0/itog.pdb
+/Users/anny/Desktop/itog/obj/Debug/net6.0/itog.csproj.AssemblyReference.cache
+/Users/anny/Desktop/itog/obj/Debug/net6.0/itog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anny/Desktop/itog/obj/Debug/net6.0/itog.AssemblyInfoInputs.cache
+/Users/anny/Desktop/itog/obj/Debug/net6.0/itog.AssemblyInfo.cs
+/Users/anny/Desktop/itog/obj/Debug/net6.0/itog.csproj.CoreCompileInputs.cache
+/Users/anny/Desktop/itog/obj/Debug/net6.0/itog.dll
+/Users/anny/Desktop/itog/obj/Debug/net6.0/refint/itog.dll
+/Users/anny/Desktop/itog/obj/Debug/net6.0/itog.pdb
+/Users/anny/Desktop/itog/obj/Debug/net6.0/itog.genruntimeconfig.cache
+/Users/anny/Desktop/itog/obj/Debug/net6.0/ref/itog.dll
